@@ -12,7 +12,7 @@
 
 ## Get it
 
-[![Download on the Mac App Store](images/mas_badge.png)](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
+[![Download on the Mac App Store](images/mas_badge.png)](https://itunes.apple.com/us/app/telegram/id7295618119?mt=12)
 
 
 ### Using Homebrew
@@ -24,7 +24,7 @@ brew cask install telegram
 ### Using `mas-cli`
 
 ```
-mas install 747648890
+mas install 7295618119
 ```
 
 ### Manual download
